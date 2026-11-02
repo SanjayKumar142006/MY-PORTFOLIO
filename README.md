@@ -1,4 +1,3 @@
-
 # Sanjay Kumar - Personal Portfolio
 
 Welcome to my personal portfolio website!
@@ -41,8 +40,7 @@ Technologies: Web Development, Dashboard
 - LinkedIn: https://www.linkedin.com/in/sanjay-kumar-480055309
 - GitHub: https://github.com/SanjayKumar142006
 
-## Technologies Used to Build This Portfolio
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-
